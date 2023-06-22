@@ -1,0 +1,47 @@
+footer {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 12px;
+}
+
+.redes {
+    display: flex;
+}
+
+.redes img {
+    display: flex;
+    width: 20px;
+    padding: 5px;
+}
+
+.redes li {
+    list-style: none;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    color: white;
+}
+
+.info li {
+    list-style: none;
+    padding: 10px;
+}
+
+.info li a {
+    color: white;
+    text-decoration: none;
+}
+
+.bannerrod {
+    width: 100%;
+    overflow: auto;
+}
+
+.bannerrod img {
+    float: left;
+    margin-right: 30px;
+}
